@@ -538,7 +538,7 @@ function Cart() {
 		});
 		d += "\n\n - Tổng Tiền: " + number_format(v, 0, ".", ",") + " (VNĐ)";
 		try {
-			e.entry = "entry_548453695";
+			e.entry = "entry_1149005037";
 			document.getElementById(e.entry).innerHTML = d
 		} catch(m) {}
 		for (var g = 0, y = e.cartDivs.length; g < y; g++) {
