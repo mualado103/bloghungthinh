@@ -1,8 +1,8 @@
 function passCustom(){ 
 	simpleCart.checkoutTo = Custom;
-	simpleCart.email = &quot;manhongit.dhp@gmail.com&quot;
+	simpleCart.email = &quot;mualado103@gmail.com&quot;
 	simpleCart.currency = VND;
-	simpleCart.successUrl = &quot;http://lakashop123.blogspot.com/&quot;
+	simpleCart.successUrl = &quot;http://hungthinhvlxd.blogspot.com/&quot;
 } 
 function passGoogle(){ 
 	simpleCart.checkoutTo = Email; 		
